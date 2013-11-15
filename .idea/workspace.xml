@@ -238,7 +238,11 @@
       <created>1384540309472</created>
       <updated>1384540309472</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test Autoload">
+      <created>1384540315826</created>
+      <updated>1384540315826</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
