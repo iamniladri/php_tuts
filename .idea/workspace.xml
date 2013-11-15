@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd77aba-e948-4b1a-b853-7887246b2f03" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ci_tuts/application/controllers/welcome.php" afterPath="$PROJECT_DIR$/ci_tuts/application/controllers/welcome.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="php_tuts.iws" />
@@ -231,7 +230,11 @@
       <created>1384539975910</created>
       <updated>1384539975910</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test Autoload">
+      <created>1384540302678</created>
+      <updated>1384540302678</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
